@@ -1,0 +1,111 @@
+body{
+    padding: 40px;
+}
+div.left_side_logo_discription_container{
+    display: flex;
+    gap: 12px;
+}
+div#Alt{
+    font-size: 20px;
+}
+div#Alt1{
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+}
+header div.The_whole_header_container{
+    display: flex;
+    justify-content: space-between;
+}
+nav.right_side_bar_navigation_container{
+    display: flex;
+    gap: 15px;
+}
+div.item{
+    font-size: 20px;
+    color: #2c3030a0;
+}
+/* Header Section Ends */
+
+/* Main Section Begins */
+section div.main_section_container{
+     text-align: center;
+     margin-top: 120px;
+     padding-left: 50px;
+     padding-right: 50px;
+}
+div.design1{
+    width: 300px;
+    padding: 10px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #bbbbbb64;
+    font-weight: 300;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    margin-bottom: -30px;
+}
+div.design2{
+    width: 450px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #b3b3b3;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    border-radius: 12px;
+    margin-top:  55px;
+}
+div#subscribe{
+    color: white;
+    border: 2px solid #b80f0fd2;
+    padding: 16px;
+    background-color: #b80f0fd2;
+    height: 18px;
+    width: 100px;
+    margin-top: -16px;
+    margin-right:-16px;
+    border-radius: 12px;
+}
+/* End of main section */
+section div.container3{
+    display: flex;
+    gap: 14px;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+div.item2{
+    font-size: 20px;
+    border: 2px solid #bbbbbb42;
+    border-radius: 7px;
+    height: 30px;
+    padding: 5px 15px 5px 15px;
+    width: auto;
+}
+/* Detailed Section End */
+div.container6{
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+}
+div.item6{
+    height: 250px;
+    width: 500px;
+    border: 2px solid #bbbbbb42;
+    border-radius: 16px;
+    object-cover: fit;
+    background-color: #bbbbbb23;
+    padding: 0px 10px 0px 10px;
+}
+div img.item7{
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    margin: 20px 10px 20px 20px;
+}
+div.contans{
+    display: flex;
+}
